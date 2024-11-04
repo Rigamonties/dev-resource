@@ -1,3 +1,16 @@
 body {
-    font-size: 15pt;
+    color: slateblue;
+    text-align: center ;
+    padding: 25px;
+    margin: 25px;
+    
+}
+
+a {
+  border: solid;
+  border-radius: 50px;
+  color: white;
+  display: block;
+  padding: 15px;
+  background: orange;
 }
